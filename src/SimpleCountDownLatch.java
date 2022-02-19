@@ -49,6 +49,7 @@ public class SimpleCountDownLatch {
 }
 
 
+// KEY THINGS ::: synchronized, wait(), notifyAll() :::
 
 //    The CountDownLatch and its simple version the SimpleCountDownLatch are initialized with a non-negative count.
 //

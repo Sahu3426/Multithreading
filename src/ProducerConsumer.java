@@ -88,6 +88,7 @@ public class ProducerConsumer {
 
 // Change size of capcity for bettter understanding
 //Producer thread and Consuner thread working on shared msgQueue, Handling enqueue and dequeue through synchronization and wait, notify kryword.
+// KEY THINGS ::: synchronized, wait(), notifyAll() :::
 
 
 //
